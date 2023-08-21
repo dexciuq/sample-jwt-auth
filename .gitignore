@@ -22,3 +22,5 @@ go.work
 
 # IDEA files
 .idea/
+config/.env
+config/config.yaml
